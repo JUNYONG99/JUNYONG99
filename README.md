@@ -34,10 +34,7 @@
  <td rowspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUNYONG99&show_icons=true&locale=en&layout=compact&hide=css,hack" height="200" alt="JUNYONG99" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 </td>
 	</tr>
-	<tr>
-		<td><b>App Development</b></td>
-		<td><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="40" height="40"/> </a> </td>
-	</tr>
+	
     <tr>
 		<td><b>Backend as a Service</b></td>
 		<td>
