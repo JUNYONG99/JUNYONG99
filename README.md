@@ -54,19 +54,5 @@
 </table>
 <br><br><br><br>
 
-## etc
-<br>
-
-<li><b>Discord</b></li>
-<br>
-
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=376594769318772747)](https://discordapp.com/users/376594769318772747)
-
-<br>
-<br>
-
-
-
-
 
 <img align= "right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fhttps%2F%2Fgithub.com%2Fordem-yoo%2Fordem-yoo%2Fblob%2Fmain%2FREADME.md&count_bg=%237F3ACE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="ordem-yoo" />
