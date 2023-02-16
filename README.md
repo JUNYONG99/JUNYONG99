@@ -31,7 +31,7 @@
  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" title="Java" width="40" height="40"/> </a> &nbsp&nbsp 
  <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" title="Dart" width="40" height="40"/></a>
 
- <td rowspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ordem-yoo&show_icons=true&locale=en&layout=compact" height="200" alt="ordem-yoo" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
+ <td rowspan="4">&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUNYONG99&show_icons=true&locale=en&layout=compact" height="200" alt="JUNYONG99" />&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp</td>
 </td>
 	</tr>
 	<tr>
@@ -61,7 +61,7 @@
 <br>
 
 [![My Discord](https://discord-readme-badge.vercel.app/api?id=376594769318772747)](https://discordapp.com/users/376594769318772747)
-[![My Discord](https://discord-readme-badge.vercel.app/api?id=358480813681016832)](https://discordapp.com/users/358480813681016832)
+
 <br>
 <br>
 
