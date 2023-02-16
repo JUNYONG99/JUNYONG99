@@ -15,8 +15,8 @@
 ## Github stats
 <br>
 <div>
-<img width= "49.73%" src="https://github-readme-stats.vercel.app/api?username=ordem-yoo&show_icons=true&theme=midnight-purple&count_private=true"/>
-<img width= "49.73%" src="https://github-readme-streak-stats.herokuapp.com/?user=ordem-yoo&" alt="ordem-yoo" />
+<img width= "49.73%" src="https://github-readme-stats.vercel.app/api?username=JUNYONG99&show_icons=true&theme=midnight-purple&count_private=true"/>
+<img width= "49.73%" src="https://github-readme-streak-stats.herokuapp.com/?user=JUNYONG99&" alt="ordem-yoo" />
 </div>
 <br><br><br><br>
 
