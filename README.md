@@ -1,6 +1,6 @@
 ## Introduce
 
-<h4>Hello! I'm Ordem wants to be an app dev 🧑🏽‍💻📱  </h4><br>
+<h4>Hello! I'm Jun wants to be an web dev 🧑🏽‍💻📱  </h4><br>
 <h4>I'm currently learning&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" title="Flutter" width="24" height="24"/>&nbsp; </a> and&nbsp; <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" title="Dart" width="24" height="24"/> </a> </h4>
 
 <h4> I'm interested in&nbsp; <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" title="Go" width="24" height="24"/> </a> &nbsp;and&nbsp; <a href="https://spring.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" title="Spring" width="24" height="24"/></a></h4>
