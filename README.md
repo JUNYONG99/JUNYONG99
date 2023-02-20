@@ -1,11 +1,11 @@
 ## Introduce
 
-<h4>Hello! I'm Jun wants to be an web dev 🧑🏽‍💻📱  </h4><br>
+<h4>Hello! I'm Jun wants to be an web dev 🧑🏽‍💻📱 </h4>
 
 
 <br>
 <br>
-<br>
+
 
 ## Github stats
 <br>
