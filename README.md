@@ -14,7 +14,7 @@
 </div>
 <br><br><br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUNYONG99&show_icons=true&locale=en&layout=compact&hide=css,Hack,python" height="200" width="99.9%" alt="JUNYONG99" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=JUNYONG99&show_icons=true&locale=en&layout=compact&hide=css,Hack" height="200" width="99.9%" alt="JUNYONG99" />
 <br><br><br>
 
 
